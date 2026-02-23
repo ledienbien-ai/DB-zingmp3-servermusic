@@ -47,6 +47,7 @@ Dự án này cần được sử dụng cùng với thiết bị phần cứng 
 Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch vụ có giấy phép kinh doanh liên quan và đọc kỹ thỏa thuận dịch vụ và chính sách bảo mật của họ. Phần mềm này không lưu trữ bất kỳ khóa tài khoản nào, không tham gia vào luồng tiền và không chịu rủi ro mất tiền nạp.
 
 2. Chức năng của dự án này chưa hoàn thiện và chưa qua đánh giá bảo mật mạng, vui lòng không sử dụng trong môi trường sản xuất. Nếu bạn triển khai dự án này trong môi trường mạng công cộng để học tập, vui lòng thực hiện các biện pháp bảo vệ cần thiết.
+3. Server sử dụng nguồn dữ liệu và bài hát từ Zing MP3. Mọi bản quyền tác phẩm âm nhạc, hình ảnh và thông tin liên quan hoàn toàn thuộc về Zing MP3 và các đơn vị chủ quản/tác giả. Nghiêm cấm sử dụng mã nguồn và hệ thống này cho mục đích thương mại hoặc kinh doanh dưới mọi hình thức khi chưa có sự cho phép của đơn vị chủ quản. Mã nguồn này được thiết kế với mục đích học tập, nghiên cứu cá nhân. Chủ sở hữu mã nguồn sẵn sàng gỡ bỏ mọi tác quyền và dừng hoạt động nếu có yêu cầu từ đơn vị sở hữu bản quyền, đồng thời tuyên bố miễn trừ mọi trách nhiệm pháp lý liên quan đến việc người dùng sử dụng nền tảng này.
 
 ---
 
@@ -673,8 +674,8 @@ Chúc các bạn triển khai thành công !
 | Logo | Dự án/Công ty | Mô tả |
 |:---:|:---:|:---|
 | Dự án này được lấy cảm hứng từ sử dụng giao diện của bạn Duy Bằng và được triển khai trên cơ sở đó | Thanks | Note |
-| Dự án này hoàn toàn miễn phí và chia sẻ rộng rãi, không sử dụng để kinh doanh nếu chưa hỏi ý kiến của tôi  | Thanks | Note |
-| Ghi rõ nguồn nếu sử dụng lại | Thanks | Note |
+| Dự án này hoàn toàn miễn phí và chia sẻ rộng rãi, không sử dụng để kinh doanh nếu chưa hỏi ý kiến đơn vị chủ quản  | Thanks | Note |
+| Tuyên bố miễn trừ trách nhiệm: Vui lòng ghi rõ nguồn nếu sử dụng lại | Thanks | Note |
 
 [![Banners](./Banner.jpg)](https://github.com/ledienbien-ai/DB-zingmp3-servermusic)
 
