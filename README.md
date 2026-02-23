@@ -1,10 +1,10 @@
-[![Banners](banner.jpg)](https://github.com/ledienbien-ai/DB-zingmp3-servermusic)
+[![Banners](./Banner.jpg)](https://github.com/ledienbien-ai/DB-zingmp3-servermusic)
 
 <h1 align="center">Máy chủ Âm nhạc DB Zing MP3 Xiaozhi </h1>
 
 <p align="center">
 Dự án này dựa trên lý thuyết và công nghệ trí tuệ cộng sinh người-máy để phát triển hệ thống phần mềm và phần cứng thiết bị đầu cuối thông minh<br/>Cung cấp dịch vụ backend cho dự án phần cứng thông minh mã nguồn mở
-<a href="https://github.com/78/xiaozhi-esp32">xiaozhi-esp32</a><br/>
+<a href="https://github.com/78/xiaozhi-esp32">xiaozhi-esp32</a> và <a href="https://github.com/TienHuyIoT/xiaozhi-esp32_vietnam">Xiaozhi Iot VN</a> <br/>
 Được triển khai bằng Python, Java, Vue theo <a href="https://ccnphfhqs21z.feishu.cn/wiki/M0XiwldO9iJwHikpXD5cEx71nKh">giao thức truyền thông Xiaozhi</a><br/>
 Hỗ trợ giao thức MQTT+UDP, giao thức Websocket, điểm truy cập MCP, nhận dạng giọng nói và kho tri thức
 </p>
@@ -17,8 +17,7 @@ Hỗ trợ giao thức MQTT+UDP, giao thức Websocket, điểm truy cập MCP, 
 </p>
 
 <p align="center">
-  <a href="./README_en.md"><img alt="README in English" src="https://img.shields.io/badge/English-DFE0E5"></a>
-  <a href="./README_vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Tiếng Việt-DBEDFA"></a>
+  <a href="./README.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Tiếng Việt-DBEDFA"></a>
   <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic/releases">
     <img alt="GitHub Contributors" src="https://github.com/ledienbien-ai/DB-zingmp3-servermusic?logo=docker" />
   </a>
@@ -26,7 +25,7 @@ Hỗ trợ giao thức MQTT+UDP, giao thức Websocket, điểm truy cập MCP, 
     <img alt="GitHub pull requests" src="https://img.shields.io/badge/license-MIT-white?labelColor=black" />
   </a>
   <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic">
-    <img alt="stars" src="https://img.shields.io/github/stars/xinnan-tech/xiaozhi-esp32-server?color=ffcb47&labelColor=black" />
+    <img alt="stars" src="https://img.shields.io/github/stars/ledienbien-ai/DB-zingmp3-servermusic?color=ffcb47&labelColor=black" />
   </a>
 </p>
 
@@ -62,7 +61,7 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 
 ## Tài liệu triển khai trên máy chủ Armbian
 
-![Banners](banner.jpg)
+![Banners](./Banner.jpg)
 
 #### 🚩 Mô tả và khuyến nghị cấu hình
 > [!Note]
