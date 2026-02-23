@@ -676,7 +676,7 @@ Chúc các bạn triển khai thành công !
 | Dự án này hoàn toàn miễn phí và chia sẻ rộng rãi, không sử dụng để kinh doanh nếu chưa hỏi ý kiến của tôi  | Thanks | Note |
 | Ghi rõ nguồn nếu sử dụng lại | Thanks | Note |
 
-![Banners](./Zing.JPG)
+[![Banners](./Banner.jpg)](https://github.com/ledienbien-ai/DB-zingmp3-servermusic)
 
 <a href="https://star-history.com/#ledienbien-ai/DB-zingmp3-servermusic&Date">
 
