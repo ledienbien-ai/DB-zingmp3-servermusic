@@ -19,8 +19,6 @@ Hỗ trợ giao thức MQTT+UDP, giao thức Websocket, điểm truy cập MCP, 
 <p align="center">
   <a href="./README.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Tiếng Việt-DBEDFA"></a>
   <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic/releases">
-    <img alt="GitHub Contributors" src="https://github.com/ledienbien-ai/DB-zingmp3-servermusic?logo=docker" />
-  </a>
   <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic/LICENSE">
     <img alt="GitHub pull requests" src="https://img.shields.io/badge/license-MIT-white?labelColor=black" />
   </a>
