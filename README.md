@@ -32,6 +32,7 @@ Vibe Codding bởi Lê Điện Biên - <a href="https://zalo.me/0915468863" targ
 <p align="center"> DEMO: <a href="https://zing.ledienbien.edu.vn" target="blank" >https://zing.ledienbien.edu.vn</a>
 </p>
 ---
+
 ## I.Người dùng phù hợp 👥
 
 Dự án này cần được sử dụng cùng với thiết bị phần cứng ESP32. Nếu bạn đã mua phần cứng liên quan đến ESP32, đã thành công kết nối với dịch vụ backend do Cộng đồng Xiaozhi IoT Vn phát triển, và muốn xây dựng dịch vụ backend máy chủ âm nhạc lấy nguồn từ Zing Mp3 riêng của mình, thì dự án này rất phù hợp với bạn.
