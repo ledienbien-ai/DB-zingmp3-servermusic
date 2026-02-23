@@ -228,6 +228,11 @@ networks:
 #============================================================
 ```
 5. Tạo file API Node.js vào thư mục dự án
+Chạy 
+```bash
+sudo nano zing-api.js
+```
+Dán nội dung:
 
 ```bash
 // DIENBIEN MOD - Server nhạc Zing MP3 chạy trên Armbian
