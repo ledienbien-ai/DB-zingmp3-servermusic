@@ -51,7 +51,7 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 
 ## Tài liệu triển khai DB Zing MP3 Music Server trên máy chủ Armbian:
 
-![Banners](./Zing.jpg)
+![Banners](./Zing.JPG)
 
 #### 🚩 Mô tả và khuyến nghị cấu hình
 > [!Note]
