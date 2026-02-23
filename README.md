@@ -663,6 +663,7 @@ Chúc các bạn triển khai thành công
 |:---:|:---:|:---|
 | Dự án này được lấy cảm hứng từ sử dụng giao diện của bạn Duy Bằng và được triển khai trên cơ sở đó |
 | Dự án này hoàn toàn miễn phí và chia sẻ rộng rãi, không sử dụng để kinh doanh nếu chưa hỏi ý kiến của tôi  |
+| Ghi rõ nguồn nếu sử dụng lại |
 
 
 <a href="https://star-history.com/#ledienbien-ai/DB-zingmp3-servermusic&Date">
