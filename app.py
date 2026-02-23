@@ -207,7 +207,14 @@ def home():
             </button>
         </div>
     </div>
-
+         <div class="card-dark p-4 w-full max-w-4xl flex flex-col gap-2 border border-red-900/30 bg-red-900/10 rounded-xl">
+        <h3 class="text-[11px] font-bold text-red-400/80 uppercase tracking-widest text-center flex items-center justify-center gap-2">
+            <i class="fas fa-exclamation-triangle"></i> Tuyên bố miễn trừ trách nhiệm
+        </h3>
+        <p class="text-[10px] text-gray-400/80 leading-relaxed text-justify px-2">
+            Server sử dụng nguồn dữ liệu và bài hát từ Zing MP3. Mọi bản quyền tác phẩm âm nhạc, hình ảnh và thông tin liên quan hoàn toàn thuộc về Zing MP3 và các đơn vị chủ quản/tác giả. Nghiêm cấm sử dụng mã nguồn và hệ thống này cho mục đích thương mại hoặc kinh doanh dưới mọi hình thức khi chưa có sự cho phép của đơn vị chủ quản. Mã nguồn này được thiết kế với mục đích học tập, nghiên cứu cá nhân. Chủ sở hữu mã nguồn sẵn sàng gỡ bỏ mọi tác quyền và dừng hoạt động nếu có yêu cầu từ đơn vị sở hữu bản quyền, đồng thời tuyên bố miễn trừ mọi trách nhiệm pháp lý liên quan đến việc người dùng sử dụng nền tảng này.
+        </p>
+    </div>
     <div class="card-dark p-5 w-full max-w-4xl flex flex-col gap-5">
         <div class="text-center py-2">
             <p class="text-[11px] text-purple-300 font-bold uppercase tracking-widest drop-shadow-md">
@@ -351,3 +358,4 @@ if __name__ == '__main__':
 # End - DIENBIEN MOD - Server nhạc Zing MP3 chạy trên Armbian
 
 #============================================================
+
