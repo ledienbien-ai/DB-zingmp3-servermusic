@@ -1,0 +1,35 @@
+# DIENBIEN MOD - Server nhạc Zing MP3 chạy trên Armbian
+#=======================================================
+services:
+  zingmp3-server:
+    build: .
+    container_name: zingmp3-server
+    restart: unless-stopped
+    ports:
+      - "5001:5000"
+    networks:
+      - xiaozhi-network
+    volumes:
+      - .:/app
+    depends_on:
+      - zing-api
+
+  zing-api:
+    image: node:18-alpine
+    container_name: zing-api
+    restart: unless-stopped
+    working_dir: /app
+    volumes:
+      - .:/app
+    command: sh -c "npm install zingmp3-api-full express && node zing-api.js"
+    networks:
+      - xiaozhi-network
+    ports:
+      - "5555:5555"
+
+networks:
+  xiaozhi-network:
+    external: true
+    
+# End - DIENBIEN MOD - Server nhạc Zing MP3 chạy trên Armbian
+#============================================================

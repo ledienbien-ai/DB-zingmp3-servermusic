@@ -1,0 +1,10 @@
+# DIENBIEN MOD - Server nhạc Zing MP3 chạy trên Armbian
+#=======================================================
+
+Flask==3.0.0
+flask-cors==4.0.0
+psutil==5.9.6
+requests
+
+# End - DIENBIEN MOD - Server nhạc Zing MP3 chạy trên Armbian
+#============================================================
