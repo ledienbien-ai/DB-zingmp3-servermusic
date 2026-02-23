@@ -7,7 +7,7 @@ Dự án này dựa trên lý thuyết và công nghệ trí tuệ cộng sinh n
 <a href="https://github.com/78/xiaozhi-esp32">xiaozhi-esp32</a> và <a href="https://github.com/TienHuyIoT/xiaozhi-esp32_vietnam">Xiaozhi Iot VN</a> <br/>
 Được triển khai bằng Python, Script, Node.
 </p>
-DEMO: <a href="https://zing.ledienbien.edu.vn" target="_blank" >[Xiaozhi Iot VN](https://zing.ledienbien.edu.vn/)</a>
+
 <p align="center">
 <a href="./README.md">Hướng dẫn triển khai</a>
 · <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic/issues">Báo cáo vấn đề</a>
@@ -31,7 +31,8 @@ Vibe Codding bởi Lê Điện Biên - <a href="https://zalo.me/0915468863" targ
 </p>
 
 ---
-
+DEMO: <a href="https://zing.ledienbien.edu.vn" target="_blank" >https://zing.ledienbien.edu.vn</a>
+---
 ## I.Người dùng phù hợp 👥
 
 Dự án này cần được sử dụng cùng với thiết bị phần cứng ESP32. Nếu bạn đã mua phần cứng liên quan đến ESP32, đã thành công kết nối với dịch vụ backend do Cộng đồng Xiaozhi IoT Vn phát triển, và muốn xây dựng dịch vụ backend máy chủ âm nhạc lấy nguồn từ Zing Mp3 riêng của mình, thì dự án này rất phù hợp với bạn.
