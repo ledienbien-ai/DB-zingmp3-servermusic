@@ -7,7 +7,7 @@ Dự án này dựa trên lý thuyết và công nghệ trí tuệ cộng sinh n
 <a href="https://github.com/78/xiaozhi-esp32">xiaozhi-esp32</a> và <a href="https://github.com/TienHuyIoT/xiaozhi-esp32_vietnam">Xiaozhi Iot VN</a> <br/>
 Được triển khai bằng Python, Script, Node.
 </p>
-
+DEMO: <a href="https://zing.ledienbien.edu.vn" target="_blank" >[Xiaozhi Iot VN](https://zing.ledienbien.edu.vn/)</a>
 <p align="center">
 <a href="./README.md">Hướng dẫn triển khai</a>
 · <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic/issues">Báo cáo vấn đề</a>
@@ -27,7 +27,7 @@ Dự án này dựa trên lý thuyết và công nghệ trí tuệ cộng sinh n
 </p>
 
 <p align="center">
-Vibe Codding bởi Lê Điện Biên - <a href="https://zalo.me/0915468863"> Zalo Me </a>- Email: ledienbien@gmail.com - Cộng đồng Xiaozhi IoT Vn
+Vibe Codding bởi Lê Điện Biên - <a href="https://zalo.me/0915468863" target="_blank"> Zalo Me </a>- Email: ledienbien@gmail.com - Cộng đồng Xiaozhi IoT Vn
 </p>
 
 ---
