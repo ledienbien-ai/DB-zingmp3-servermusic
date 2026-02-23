@@ -32,7 +32,7 @@ Vibe Codding bởi Lê Điện Biên - <a href="https://zalo.me/0915468863"> Zal
 
 ---
 
-## Người dùng phù hợp 👥
+## I.Người dùng phù hợp 👥
 
 Dự án này cần được sử dụng cùng với thiết bị phần cứng ESP32. Nếu bạn đã mua phần cứng liên quan đến ESP32, đã thành công kết nối với dịch vụ backend do Cộng đồng Xiaozhi IoT Vn phát triển, và muốn xây dựng dịch vụ backend máy chủ âm nhạc lấy nguồn từ Zing Mp3 riêng của mình, thì dự án này rất phù hợp với bạn.
 
@@ -40,7 +40,7 @@ Dự án này cần được sử dụng cùng với thiết bị phần cứng 
 
 ---
 
-## Cảnh báo ⚠️
+## II.Cảnh báo ⚠️
 
 1. Dự án này là phần mềm mã nguồn mở, phần mềm này không có quan hệ hợp tác thương mại với bất kỳ nhà cung cấp dịch vụ API bên thứ ba nào (bao gồm nhưng không giới hạn ở các nền tảng v.v.), và không đảm bảo chất lượng dịch vụ cũng như an toàn tài chính của họ.
 Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch vụ có giấy phép kinh doanh liên quan và đọc kỹ thỏa thuận dịch vụ và chính sách bảo mật của họ. Phần mềm này không lưu trữ bất kỳ khóa tài khoản nào, không tham gia vào luồng tiền và không chịu rủi ro mất tiền nạp.
@@ -49,7 +49,7 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 
 ---
 
-## Tài liệu triển khai DB Zing MP3 Music Server trên máy chủ Armbian:
+## III.Tài liệu triển khai DB Zing MP3 Music Server trên máy chủ Armbian:
 
 #### 🚩 Mô tả và khuyến nghị cấu hình
 > [!Note]
@@ -59,7 +59,7 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 >
 > 2. `Cấu hình máy chủ`: Máy chủ Armbian có cấu hình tối thiểu Ram 1GB, bộ nhớ trống 2,5 GB - Cài sẵn Docker, cấu hình càng cao cho trải nghiệm tốt hơn.
 >
-## Danh sách tính năng ✨
+## IV.Danh sách tính năng ✨
 ### Đã thực hiện ✅
 | Giao diện phát nhạc trực tiếp trên trình duyệt PCC hoặc Mobile|
 | Mã hoá json chạy trên Firrmware của thiết bị ESP32 Xiaozhi |
@@ -67,7 +67,7 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 | CBảo mật IP thiết bị tránh bị lộ IP khi dùng chung nhiều thiết bị |
 | Hoàn toàn miễn phí |
 
-### Các bước thực hiện 🚧
+### V.Các bước thực hiện 🚧
 
 <b>***PP1*** Phương pháp cài từ Thẻ nhớ, USB:</b>
 - Bước 1 : Truy cập <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic"> DB-zingmp3-servermusic</a>. Chọn Code - Download zip - giải nén DB-zingmp3-servermusic - Copy vào thẻ nhớ, USB.
@@ -645,19 +645,19 @@ hoặc
 ```bash
 http://IP Armbian:5001
 ```
-Chúc các bạn triển khai thành công
+Chúc các bạn triển khai thành công !
 ---
 
-![Banners](./Zing.JPG)
 
-## Lời cảm ơn 🙏
+## VI.Lời cảm ơn 🙏
 
 | Logo | Dự án/Công ty | Mô tả |
 |:---:|:---:|:---|
-| Dự án này được lấy cảm hứng từ sử dụng giao diện của bạn Duy Bằng và được triển khai trên cơ sở đó |
-| Dự án này hoàn toàn miễn phí và chia sẻ rộng rãi, không sử dụng để kinh doanh nếu chưa hỏi ý kiến của tôi  |
-| Ghi rõ nguồn nếu sử dụng lại |
+| Dự án này được lấy cảm hứng từ sử dụng giao diện của bạn Duy Bằng và được triển khai trên cơ sở đó | Thanks | Note |
+| Dự án này hoàn toàn miễn phí và chia sẻ rộng rãi, không sử dụng để kinh doanh nếu chưa hỏi ý kiến của tôi  | Thanks | Note |
+| Ghi rõ nguồn nếu sử dụng lại | Thanks | Note |
 
+![Banners](./Zing.JPG)
 
 <a href="https://star-history.com/#ledienbien-ai/DB-zingmp3-servermusic&Date">
 
