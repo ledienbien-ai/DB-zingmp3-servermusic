@@ -1,6 +1,6 @@
 [![Banners](./Banner.jpg)](https://github.com/ledienbien-ai/DB-zingmp3-servermusic)
 
-<h1 align="center">Máy chủ Âm nhạc DB cho Xiaozhi nguồn ZingMP3</h1>
+<h1 align="center">Máy chủ Âm nhạc cho Xiaozhi nguồn ZingMP3</h1>
 
 <p align="center">
 Dự án này dựa trên lý thuyết và công nghệ trí tuệ cộng sinh người-máy để phát triển hệ thống phần mềm và phần cứng thiết bị đầu cuối thông minh<br/>Cung cấp dịch vụ backend cho dự án phần cứng thông minh mã nguồn mở
