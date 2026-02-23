@@ -155,7 +155,7 @@ def home():
 </head>
 <body class="min-h-screen p-4 flex flex-col items-center gap-6">
     <div class="text-center mt-4 mb-2">
-        <h1 class="header-title font-black uppercase italic">DB ZINGMP3 SERVER</h1>
+        <h1 class="header-title font-black uppercase italic">DB MUSIC SERVER</h1>
         <div class="h-1 w-32 mx-auto rounded-full mt-2 opacity-70" style="background: linear-gradient(to right, #b026ff, #ff26b9); box-shadow: 0 0 10px #ff26b9;"></div>
     </div>
     
@@ -358,4 +358,5 @@ if __name__ == '__main__':
 # End - DIENBIEN MOD - Server nhạc Zing MP3 chạy trên Armbian
 
 #============================================================
+
 
