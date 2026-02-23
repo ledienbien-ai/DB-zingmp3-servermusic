@@ -5,8 +5,7 @@
 <p align="center">
 Dự án này dựa trên lý thuyết và công nghệ trí tuệ cộng sinh người-máy để phát triển hệ thống phần mềm và phần cứng thiết bị đầu cuối thông minh<br/>Cung cấp dịch vụ backend cho dự án phần cứng thông minh mã nguồn mở
 <a href="https://github.com/78/xiaozhi-esp32">xiaozhi-esp32</a> và <a href="https://github.com/TienHuyIoT/xiaozhi-esp32_vietnam">Xiaozhi Iot VN</a> <br/>
-Được triển khai bằng Python, Java, Vue theo <a href="https://ccnphfhqs21z.feishu.cn/wiki/M0XiwldO9iJwHikpXD5cEx71nKh">giao thức truyền thông Xiaozhi</a><br/>
-Hỗ trợ giao thức MQTT+UDP, giao thức Websocket, điểm truy cập MCP, nhận dạng giọng nói và kho tri thức
+Được triển khai bằng Python, Script, Node.
 </p>
 
 <p align="center">
@@ -56,7 +55,7 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 
 #### 🚩 Mô tả và khuyến nghị cấu hình
 > [!Note]
-> Dự án này cung cấp hai phương án cấu hình:
+> Dự án này yêu cầu cấu hình:
 >
 > 1. `Miễn phí hoàn toàn cho người mới`: Phù hợp với sử dụng nhu cầu cá nhân, tất cả các thành phần đều sử dụng phương án miễn phí, không cần thanh toán thêm.
 >
@@ -72,7 +71,7 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 
 ### Các bước thực hiện 🚧
 
-***PP1*** Phương pháp cài từ Thẻ nhớ, USB:
+<b>***PP1*** Phương pháp cài từ Thẻ nhớ, USB:</b>
 - Bước 1 : Truy cập <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic"> DB-zingmp3-servermusic</a>. Chọn Code - Download zip - giải nén DB-zingmp3-servermusic - Copy vào thẻ nhớ, USB.
 - Bước 2 : Cắm usb vào thiết bị Armbian . SSH vào Armbian và kiểm tra thư mục chứa dự án
 ```bash
@@ -129,8 +128,7 @@ hoặc
 http://IP Armbian:5001
 ```
 ***PP2*** Phương pháp triển khai trực tiếp:
-1. Tạo thư mục và file cấu hình
-Anh hãy chạy các lệnh sau trên terminal để tạo một thư mục mới nằm cạnh thư mục youtube:
+1. Tạo thư mục và file cấu hình, các bạn hãy chạy các lệnh sau trên terminal để tạo một thư mục mới:
 
 ```bash
 sudo mkdir -p /mnt/usb/DB-zingmp3-servermusic
@@ -269,8 +267,12 @@ app.listen(PORT, () => {
 //============================================================
 ```
 
-6. Tạo file app.py (Mã nguồn chính)
-Chạy sudo nano app.py và dán toàn bộ đoạn code dưới đây. Tôi đã giữ nguyên giao diện Neon tím, Sóng nhạc 16 triệu màu, và thống kê đa sắc như anh yêu cầu, chỉ thay thế lõi tìm kiếm sang ZingMP3:
+6. Tạo file app.py (Mã nguồn chính): <br>
+Chạy :
+```bash
+sudo nano app.py
+```
+và dán toàn bộ đoạn code dưới đây:
 
 ```bash
 # DIENBIEN MOD - Server nhạc Zing MP3 chạy trên Armbian
@@ -626,8 +628,8 @@ if __name__ == '__main__':
 # End - DIENBIEN MOD - Server nhạc Zing MP3 chạy trên Armbian
 #============================================================
 ```
-6. Khởi chạy Server ZingMP3
-Cuối cùng, anh chạy lệnh sau để Docker tải thư viện và khởi chạy:
+6. Khởi chạy Server ZingMP3: <br>
+Cuối cùng, các bạn chạy lệnh sau để Docker tải thư viện và khởi chạy:
 
 ```bash
 sudo docker compose up -d --build
