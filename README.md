@@ -111,7 +111,7 @@ Khởi chạy Docker:
 ```bash
 docker compose up -d
 ```
-
+ *Note: Các bạn kiên nhẫn đợi dự án triển khai và cài các thư viện đi kèm và bật Container trong Docker: Quá trình nhanh hay chậm phụ thuộc phần cứng và tốc độ mạng của bạn. <br>
 4. Tạo mạng xiaozhi-network để khởi chạy server:
 ```bash
 docker network create xiaozhi-network
@@ -632,6 +632,7 @@ Cuối cùng, các bạn chạy lệnh sau để Docker tải thư viện và kh
 ```bash
 sudo docker compose up -d --build
 ```
+ *Note: Các bạn kiên nhẫn đợi dự án triển khai và cài các thư viện đi kèm và bật Container trong Docker: Quá trình nhanh hay chậm phụ thuộc phần cứng và tốc độ mạng của bạn. <br>
 7. Tạo mạng xiaozhi-network để khởi chạy server:
 ```bash
 docker network create xiaozhi-network
