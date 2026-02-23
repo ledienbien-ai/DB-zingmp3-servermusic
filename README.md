@@ -51,8 +51,6 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 
 ## Tài liệu triển khai DB Zing MP3 Music Server trên máy chủ Armbian:
 
-![Banners](./Zing.JPG)
-
 #### 🚩 Mô tả và khuyến nghị cấu hình
 > [!Note]
 > Dự án này yêu cầu cấu hình:
@@ -649,6 +647,8 @@ http://IP Armbian:5001
 ```
 Chúc các bạn triển khai thành công
 ---
+
+![Banners](./Zing.JPG)
 
 ## Lời cảm ơn 🙏
 
