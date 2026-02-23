@@ -82,17 +82,18 @@ Hoặc
 ```bash
 lsblk
 ```
+Xem danh sách tên thẻ nhớ hoặc USB
 1. Tạo thư mục để gắn USB
 Bạn cần tạo một thư mục trống đóng vai trò làm "cửa ngõ" để truy cập USB. Chạy lệnh sau:
 
 ```bash
-sudo mkdir -p /mnt/usb
+sudo mkdir -p /thư mục cài
 ```
 2. Mount (gắn) USB vào thư mục vừa tạo
 Vì lsblk chỉ hiện sda mà không có phân vùng con (như sda1), dữ liệu của bạn có thể nằm trực tiếp trên toàn bộ ổ đĩa. Chạy lệnh:
 
 ```bash
-sudo mount /dev/sda /mnt/usb
+sudo mount /dev/sda /thư mục cài
 ```
 (Nếu hệ thống yêu cầu mật khẩu, hãy nhập mật khẩu của user armbian).
 
@@ -102,12 +103,12 @@ Nếu lệnh mount thành công và không báo lỗi gì, USB của bạn đã 
 Kiểm tra xem thư mục DB-zingmp3-servermusic đã xuất hiện chưa:
 
 ```bash
-ls /mnt/usb
+ls /thư mục cài
 ```
 Di chuyển vào thư mục đó:
 
 ```bash
-cd /mnt/usb/DB-zingmp3-servermusic
+cd //thư mục cài/DB-zingmp3-servermusic
 ```
 Khởi chạy Docker:
 
@@ -132,10 +133,10 @@ http://IP Armbian:5001
 1. Tạo thư mục và file cấu hình, các bạn hãy chạy các lệnh sau trên terminal để tạo một thư mục mới:
 
 ```bash
-sudo mkdir -p /mnt/usb/DB-zingmp3-servermusic
+sudo mkdir -p //thư mục cài/DB-zingmp3-servermusic
 ```
 ```bash
-cd /mnt/usb/DB-zingmp3-servermusic
+cd //thư mục cài/DB-zingmp3-servermusic
 ```
 2. Tạo file Dockerfile
 Chạy 
