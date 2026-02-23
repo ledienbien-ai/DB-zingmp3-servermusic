@@ -66,6 +66,8 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 | Nguồn nhạc chính thống từ server Zing Mp3 - thường xuyên Update |
 | CBảo mật IP thiết bị tránh bị lộ IP khi dùng chung nhiều thiết bị |
 | Hoàn toàn miễn phí |
+### Đang phát triển 🚩
+| Giao diện phát nhạc theo danh sách Playlist|
 
 ### V.Các bước thực hiện 🚧
 
