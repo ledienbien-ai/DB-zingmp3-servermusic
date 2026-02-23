@@ -27,9 +27,9 @@ Dự án này dựa trên lý thuyết và công nghệ trí tuệ cộng sinh n
 </p>
 
 <p align="center">
-Vibe Codding bởi Lê Điện Biên - <a href="https://zalo.me/0915468863" target="_blank"> Zalo Me </a>- Email: ledienbien@gmail.com - Cộng đồng Xiaozhi IoT Vn
+Vibe Codding bởi Lê Điện Biên - <a href="https://zalo.me/0915468863" target="blank"> Zalo Me </a>- Email: ledienbien@gmail.com - Cộng đồng Xiaozhi IoT Vn
 </p>
-<p align="center"> DEMO: <a href="https://zing.ledienbien.edu.vn" target="_blank" >https://zing.ledienbien.edu.vn</a>
+<p align="center"> DEMO: <a href="https://zing.ledienbien.edu.vn" target="blank" >https://zing.ledienbien.edu.vn</a>
 </p>
 ---
 ## I.Người dùng phù hợp 👥
