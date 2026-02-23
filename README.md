@@ -125,7 +125,7 @@ hoặc
 ```bash
 http://IP Armbian:5001
 ```
-***PP2*** Phương pháp triển khai trực tiếp:
+***PP2*** Phương pháp triển khai trực tiếp trong Docker:
 1. Tạo thư mục và file cấu hình, các bạn hãy chạy các lệnh sau trên terminal để tạo một thư mục mới:
 
 ```bash
