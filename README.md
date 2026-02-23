@@ -486,7 +486,7 @@ def home():
     <div class="card-dark p-5 w-full max-w-4xl flex flex-col gap-5">
         <div class="text-center py-2">
             <p class="text-[11px] text-purple-300 font-bold uppercase tracking-widest drop-shadow-md">
-                Thiết kế và phát triển : Lê Điện Biên - <a href="https://zalo.me/0915468863" target="_blank"> Zalo Me </a> - Email: ledienbien@gmail.com
+                Design&Dev : Lê Điện Biên - <a href="https://zalo.me/0915468863" target="_blank"> Zalo Me </a> - Email: ledienbien@gmail.com - Xiaozhi IoT VN
             </p>
         </div>
     </div>
