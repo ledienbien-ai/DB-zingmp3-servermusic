@@ -63,10 +63,10 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 ## IV.Danh sách tính năng ✨
 ### Đã thực hiện ✅
 | Giao diện phát nhạc trực tiếp trên trình duyệt PC hoặc Mobile| <br>
-| Mã hoá json chạy trên Firrmware của thiết bị ESP32 Xiaozhi |
-| Nguồn nhạc chính thống từ server Zing Mp3 - thường xuyên Update |
-| CBảo mật IP thiết bị tránh bị lộ IP khi dùng chung nhiều thiết bị |
-| Hoàn toàn miễn phí |
+| Mã hoá json chạy trên Firrmware của thiết bị ESP32 Xiaozhi |<br>
+| Nguồn nhạc chính thống từ server Zing Mp3 - thường xuyên Update |<br>
+| CBảo mật IP thiết bị tránh bị lộ IP khi dùng chung nhiều thiết bị |<br>
+| Hoàn toàn miễn phí |<br>
 ### Đang phát triển 🚩
 | Giao diện phát nhạc theo danh sách Playlist|
 
