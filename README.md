@@ -10,7 +10,7 @@ Hỗ trợ giao thức MQTT+UDP, giao thức Websocket, điểm truy cập MCP, 
 </p>
 
 <p align="center">
-<a href="README_vi.md">Hướng dẫn triển khai</a>
+<a href="./README.md">Hướng dẫn triển khai</a>
 · <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic/issues">Báo cáo vấn đề</a>
 · <a href="./README.md">Tài liệu triển khai</a>
 · <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic/releases">Nhật ký cập nhật</a>
@@ -40,13 +40,6 @@ Vibe Codding bởi Lê Điện Biên - <a href="https://zalo.me/0915468863"> Zal
 Dự án này cần được sử dụng cùng với thiết bị phần cứng ESP32. Nếu bạn đã mua phần cứng liên quan đến ESP32, đã thành công kết nối với dịch vụ backend do Cộng đồng Xiaozhi IoT Vn phát triển, và muốn xây dựng dịch vụ backend máy chủ âm nhạc lấy nguồn từ Zing Mp3 riêng của mình, thì dự án này rất phù hợp với bạn.
 
 Đây là server giúp các bạn tạo link nhạc kết nối vào wifi config hoặc gắn cứng vào firmware thay server gốc để phát nhạc trong "esp32_music.cc"
-
-<table>
-  <tr>
-    <td>  
-    </td>
-  </tr>
-</table>
 
 ---
 
