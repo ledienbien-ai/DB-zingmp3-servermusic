@@ -1,6 +1,6 @@
 [![Banners](./Banner.jpg)](https://github.com/ledienbien-ai/DB-zingmp3-servermusic)
 
-<h1 align="center">Máy chủ Âm nhạc DB Zing MP3 Xiaozhi </h1>
+<h1 align="center">Máy chủ Âm nhạc DB cho Xiaozhi nguồn ZingMP3</h1>
 
 <p align="center">
 Dự án này dựa trên lý thuyết và công nghệ trí tuệ cộng sinh người-máy để phát triển hệ thống phần mềm và phần cứng thiết bị đầu cuối thông minh<br/>Cung cấp dịch vụ backend cho dự án phần cứng thông minh mã nguồn mở
@@ -50,7 +50,7 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 
 ---
 
-## III.Tài liệu triển khai DB Zing MP3 Music Server trên máy chủ Armbian:
+## III.Tài liệu triển khai DB Music Server trên máy chủ Armbian:
 
 #### 🚩 Mô tả và khuyến nghị cấu hình
 > [!Note]
@@ -62,7 +62,7 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 >
 ## IV.Danh sách tính năng ✨
 ### Đã thực hiện ✅
-| Giao diện phát nhạc trực tiếp trên trình duyệt PCC hoặc Mobile|
+| Giao diện phát nhạc trực tiếp trên trình duyệt PC hoặc Mobile| <br>
 | Mã hoá json chạy trên Firrmware của thiết bị ESP32 Xiaozhi |
 | Nguồn nhạc chính thống từ server Zing Mp3 - thường xuyên Update |
 | CBảo mật IP thiết bị tránh bị lộ IP khi dùng chung nhiều thiết bị |
