@@ -73,7 +73,7 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 
 ### V.Các bước thực hiện 🚧
 ---
-<b>###***PP1*** Phương pháp cài từ Thẻ nhớ, USB:</b>
+<b>A. Phương pháp cài từ Thẻ nhớ, USB:</b>
 ---
 - Bước 1 : Truy cập <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic"> DB-zingmp3-servermusic</a>. Chọn Code - Download zip - giải nén DB-zingmp3-servermusic - Copy vào thẻ nhớ, USB.
 - Bước 2 : Cắm usb vào thiết bị Armbian . SSH vào Armbian và kiểm tra thư mục chứa dự án
@@ -132,7 +132,7 @@ hoặc
 http://IP Armbian:5001
 ```
 ---
-###***PP2*** Phương pháp triển khai trực tiếp trong Docker:
+B. Phương pháp triển khai trực tiếp trong Docker:
 ---
 1. Tạo thư mục và file cấu hình, các bạn hãy chạy các lệnh sau trên terminal để tạo một thư mục mới:
 
