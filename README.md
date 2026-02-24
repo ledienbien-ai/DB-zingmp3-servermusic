@@ -109,7 +109,7 @@ ls /thư mục cài
 Di chuyển vào thư mục đó:
 
 ```bash
-cd //thư mục cài/zingmp3-server
+cd /thư mục cài/zingmp3-server
 ```
 Khởi chạy Docker:
 
@@ -134,10 +134,18 @@ http://IP Armbian:5001
 1. Tạo thư mục và file cấu hình, các bạn hãy chạy các lệnh sau trên terminal để tạo một thư mục mới:
 
 ```bash
-sudo mkdir -p //thư mục cài/zingmp3-server
+sudo mkdir -p /thư mục cài/zingmp3-server
 ```
 ```bash
 cd /thư mục cài/zingmp3-server
+```
+Phân quyền người dùng
+```bash
+sudo chown -R $USER:$USER .
+```
+Phân quyền thư mục
+```bash
+sudo chmod -R 775 .
 ```
 2. Tạo file Dockerfile
 Chạy 
