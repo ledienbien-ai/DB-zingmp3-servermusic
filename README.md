@@ -69,7 +69,8 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 | Bảo mật IP thiết bị tránh bị lộ IP khi dùng chung nhiều thiết bị |<br>
 | Hoàn toàn miễn phí |<br>
 ### Đang phát triển 🚩
-| Giao diện phát nhạc theo danh sách Playlist|
+| Giao diện phát nhạc theo danh sách Playlist |  <br>
+| Hiển thị Lời nhạc Karaoke |
 
 ### V.Các bước thực hiện 🚧
 ---
