@@ -88,7 +88,8 @@ lsblk
 ```
 Xem danh sách tên thẻ nhớ hoặc USB
 1. Tạo thư mục để gắn USB
-Bạn cần tạo một thư mục trống đóng vai trò làm "cửa ngõ" để truy cập USB. Chạy lệnh sau:
+Bạn cần tạo một thư mục trống đóng vai trò làm "cửa ngõ" để truy cập USB. <br>
+Chạy lệnh sau: Nếu các bạn chạy với quyền root thì bỏ chữ "sudo" đi.
 
 ```bash
 sudo mkdir -p /thư mục cài
@@ -177,8 +178,8 @@ CMD ["python", "app.py"]
 
 (Lưu lại bằng Ctrl+O -> Enter -> Ctrl+X)
 
-3. Tạo file requirements.txt
-Chạy 
+3. Tạo file requirements.txt <br>
+Chạy lệnh:
 ```bash
 sudo nano requirements.txt
 ```
@@ -197,8 +198,8 @@ requests
 #============================================================
 ```
 
-4. Tạo file docker-compose.yml
-Chạy 
+4. Tạo file docker-compose.yml <br>
+Chạy lệnh:
 ```bash
 sudo nano docker-compose.yml
 ```
@@ -242,8 +243,8 @@ networks:
 # End - DIENBIEN MOD - Server nhạc Zing MP3 chạy trên Armbian
 #============================================================
 ```
-5. Tạo file API Node.js vào thư mục dự án
-Chạy 
+5. Tạo file API Node.js vào thư mục dự án: <br>
+Chạy lệnh:
 ```bash
 sudo nano zing-api.js
 ```
@@ -289,7 +290,7 @@ app.listen(PORT, () => {
 ```
 
 6. Tạo file app.py (Mã nguồn chính): <br>
-Chạy :
+Chạy lệnh :
 ```bash
 sudo nano app.py
 ```
