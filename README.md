@@ -76,7 +76,8 @@ Khuyến nghị người dùng ưu tiên lựa chọn nhà cung cấp dịch v�
 ---
 <b>A. Phương pháp cài từ Thẻ nhớ, USB:</b>
 ---
-- Bước 1 : Truy cập <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic"> DB-zingmp3-servermusic</a>. Chọn Code - Download zip - giải nén DB-zingmp3-servermusic - Copy vào thẻ nhớ, USB.
+- Bước 1 : Truy cập <a href="https://github.com/ledienbien-ai/DB-zingmp3-servermusic">zingmp3-server</a>.<br>
+Chọn Code - Download zip - giải nén "zingmp3-server' - Copy vào thẻ nhớ, USB.
 - Bước 2 : Cắm usb vào thiết bị Armbian . SSH vào Armbian và kiểm tra thư mục chứa dự án
 ```bash
 df -h
