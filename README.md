@@ -3,7 +3,7 @@
 <h1 align="center">Máy chủ Âm nhạc cho Xiaozhi nguồn ZingMP3</h1>
 
 <p align="center">
-Dự án này dựa trên lý thuyết và công nghệ trí tuệ cộng sinh người-máy để phát triển hệ thống phần mềm và phần cứng thiết bị đầu cuối thông minh<br/>Cung cấp dịch vụ backend cho dự án phần cứng thông minh mã nguồn mở
+Dự án này dựa trên lý thuyết và công nghệ trí tuệ cộng sinh người-máy để phát triển hệ thống phần mềm và phần cứng thiết bị đầu cuối thông minh<br/>Cung cấp dịch vụ đi kèm cho dự án phần cứng thông minh mã nguồn mở
 <a href="https://github.com/78/xiaozhi-esp32">xiaozhi-esp32</a> và <a href="https://github.com/TienHuyIoT/xiaozhi-esp32_vietnam">Xiaozhi Iot VN</a> <br/>
 Được triển khai bằng Python, Script, Node.
 </p>
