@@ -135,7 +135,7 @@ http://IP Armbian:5001
 B. Phương pháp triển khai trực tiếp trong Docker:
 ---
 1. Tạo thư mục và file cấu hình, các bạn hãy chạy các lệnh sau trên terminal để tạo một thư mục mới:
-
+   Nếu các bạn chạy với quyền root thì bỏ chữ "sudo" đi.
 ```bash
 sudo mkdir -p /thư mục cài/zingmp3-server
 ```
