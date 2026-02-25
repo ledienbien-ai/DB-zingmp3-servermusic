@@ -462,7 +462,7 @@ def home():
     <div class="card-dark p-6 w-full max-w-4xl flex flex-col gap-6">
         <div class="flex flex-col md:flex-row items-center gap-8 border-b border-purple-900/50 pb-6">
             <div id="discWrapper" class="disc-neon relative w-40 h-40 rounded-full border-[6px] overflow-hidden bg-black flex items-center justify-center shrink-0">
-                <div id="songThumb" class="absolute inset-0 bg-cover bg-center opacity-70" style="background-image: url('https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?w=300');"></div>
+                <div id="songThumb" class="absolute inset-0 bg-cover bg-center opacity-70" style="background-image: url('https://yt3.googleusercontent.com/i6BniZSkKlNENzpYX_NJneKrd-fCBSQTtsE5OhEZmQ0Jl1szk6aB55EY7ugEOnsDn9DAZ6APdwo=s160-c-k-c0x00ffffff-no-rj"></div>
                 <div class="w-8 h-8 rounded-full z-20 border-4 border-purple-900" style="background: #090314;"></div>
             </div>
             <div class="text-center md:text-left w-full overflow-hidden">
